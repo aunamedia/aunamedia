@@ -1,7 +1,18 @@
-### Hi there 👋
+### Hola 👋
+
+- 🔭 Actualmente estoy trabajando en una consultora en el departamento de desarrollo de software como Team Leader.
+- 🌱 Actualmente estoy aprendiendo todo lo que mi mente y mi tiempo pueda abarcar, CI, Git, Docker, Kubernetes, nuevos frameworks javascript y python, ecosistema Node y NPM, Spring Boot en Java...
+- 👯 Estoy buscando colaborar en proyectos colaborativos a distintos niveles.
+- 🤔 Estoy buscando ayuda con comenzar un proyecto para jugar con diferentes tecnologías  en equipo.
+- 💬 Pregúntame sobre lo que quieras, y si es creativa la pregunta, mucho mejor
+- 📫 Cómo contactarme: si ya sabes mi usuario de github, pues solo tienes que añadirle el gmail para formar un correo que no lo voy a escribir aquí.
+- 😄 Pronombres: Creativo, entusiasta, pacifista,... aunque no sé bien qué poner en esta sección.
+- ⚡ Dato curioso: Fui empresario y docente. Y aviso que soy muy dado a empezar las cosas y luego me cuesta acabarlas sin desviarme con otra nueva una vez adquirido el conocimiento.
+
 
 <!--
 **aunamedia/aunamedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Hi there, Hola 👋
 
 Here are some ideas to get you started:
 
